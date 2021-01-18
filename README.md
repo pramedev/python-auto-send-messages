@@ -1,1 +1,1 @@
-# python-auto-send-message
+# python-auto-send-messages
